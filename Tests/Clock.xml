@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Android native apps" verbose="10">
+  <test name="Validate clock">
+    <classes>
+      <class name="com.cabafa.training.android.app.ClockTest">
+      </class>
+    </classes>
+  </test>
+</suite>
